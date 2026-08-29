@@ -1,0 +1,6 @@
+{
+  "name": "Expense Manager Pro",
+  "description": "Offline-first Expense Manager app with Room database, Material Design 3, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
